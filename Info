@@ -1,11 +1,22 @@
-[{
-"name": "nam",
-"tuoi":"21",
-"diachi":"covid"
+
+[
+{
+"cau hoi" : "đây là câu hỏi 1",
+"a" : "đây là đáp án a 1",
+"b": "đây là đáp án b 1",
+"c": "đây là đán án c",
+"d" : "đây là đáp án d",
+"dapan": "đáp án này",
+"giai_thich": "đây là phần giải thích"
 },
-[{
-"name": "thoai",
-"tuoi":"20",
-"diachi":"covid"
-},
+{
+"cau hoi" : "đây là câu hỏi 2",
+"a" : "đây là đáp án a 2",
+"b": "đây là đáp án b 2",
+"c": "đây là đán án c",
+"d" : "đây là đáp án d",
+"dapan": "đáp án này",
+"giai_thich": "đây là phần giải thích 2"
+}
+
 ]
