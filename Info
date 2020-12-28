@@ -1,7 +1,7 @@
 
 [
 {
-"cau hoi" : "đây là câu hỏi 1",
+"cauhoi" : "đây là câu hỏi 1",
 "a" : "đây là đáp án a 1",
 "b": "đây là đáp án b 1",
 "c": "đây là đán án c",
@@ -10,7 +10,7 @@
 "giai_thich": "đây là phần giải thích"
 },
 {
-"cau hoi" : "đây là câu hỏi 2",
+"cauhoi" : "đây là câu hỏi 2",
 "a" : "đây là đáp án a 2",
 "b": "đây là đáp án b 2",
 "c": "đây là đán án c",
