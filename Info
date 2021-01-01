@@ -1,7 +1,7 @@
 
 [
 {
-"id" : "251",
+"id" : "251",,
 "cauhoi" : "đây là câu hỏi 1",
 "a" : "đây là đáp án a 1",
 "b": "đây là đáp án b 1",
@@ -11,7 +11,7 @@
 "giai_thich": "đây là phần giải thích"
 },
 {
-"id" : "252",
+"id" : "252",,
 "cauhoi" : "đây là câu hỏi 2",
 "a" : "đây là đáp án a 2",
 "b": "đây là đáp án b 2",
